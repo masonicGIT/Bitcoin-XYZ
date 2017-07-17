@@ -1,3 +1,4 @@
 {
-  MAX_BLOCKSIZE: NaN
+  MAX_BLOCKSIZE: NaN,
+  PROOF: [ 'STEAK' ]
 }
